@@ -31,7 +31,7 @@
   margin: auto;
 }
 
-.post-title {
+.post-title a {
   font-family:monospace;
 }
 
