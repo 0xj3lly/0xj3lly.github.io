@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on j3lly</title>
+    <link>https://j3lly.uk/posts/</link>
+    <description>Recent content in Posts on j3lly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 23 Feb 2020 00:43:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://j3lly.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HelloWorld</title>
+      <link>https://j3lly.uk/posts/helloworld/</link>
+      <pubDate>Sun, 23 Feb 2020 00:43:29 +0000</pubDate>
+      
+      <guid>https://j3lly.uk/posts/helloworld/</guid>
+      <description>Hello World! This site is mostly a place for me to store my notes and cheat sheets so i can access them remotely. If you find any of the content useful or if you have anything you&amp;#8217;d like me to post please let me know!
+ </description>
+    </item>
+    
+  </channel>
+</rss>

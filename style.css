@@ -1,0 +1,37 @@
+.container .header inner {
+  width: 75em;
+}
+
+.header .logo__text,.header .logo__mark{
+  font-family: monospace;
+  font-size: 1.8rem;
+  text-shadow: 0.1rem 0.05rem 0.05rem rgba(251, 12, 12,0.68), 0.02rem -0.05rem 0.05rem rgba(12, 79, 251,.5),-0.1rem 0rem 0.05rem rgba(14, 225, 126, 1);
+}
+
+.header li:hover{
+  text-shadow: 0.05rem 0.03rem 0.03rem rgba(251, 12, 12,0.68), 0.01rem -0.025rem 0.025rem rgba(12, 79, 251,.5),-0.05rem 0rem 0.025rem rgba(14, 225, 126, 1);
+}
+
+.header .header__inner, .footer .footer__inner {
+  width:100%;
+  max-width: 75rem;
+}
+
+.content .post {
+  width 100%;
+  max-width:75rem;
+}
+
+.content .posts .post-cover, .content .post .post-cover {
+  width 100%;
+  max-width:75rem;
+  margin: auto;
+}
+
+.content {
+  align-items:inherit;
+}
+
+.footer a {
+  margin: 0 0 0 0.3em;
+}
