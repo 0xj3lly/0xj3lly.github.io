@@ -31,6 +31,10 @@
   margin: auto;
 }
 
+.post-title {
+  font-family:monospace;
+}
+
 .content {
   align-items:inherit;
 }
